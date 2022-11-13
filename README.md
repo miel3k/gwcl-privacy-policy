@@ -1,1 +1,1 @@
-#gwcl-privacy-policy
+# gwcl-privacy-policy
